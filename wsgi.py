@@ -118,4 +118,4 @@ api.add_resource(DataWithin, '/ws/data/within')
 
 @application.route('/')
 def index():
-    return 'Welcome to the best World National Park visualizer ever!'
+    return 'Welcome to the best World National Park visualizer ever! Now, new and improved.'
